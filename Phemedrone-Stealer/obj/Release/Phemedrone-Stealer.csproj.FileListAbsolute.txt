@@ -1,0 +1,7 @@
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\bin\Release\system.exe
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\bin\Release\system.pdb
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.AssemblyReference.cache
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.ResolveComReference.cache
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\obj\Release\system.exe
+C:\Users\evges\Downloads\Telegram Desktop\Phemedrone Stealer V2.3.2\Phemedrone-Stealer\obj\Release\system.pdb
